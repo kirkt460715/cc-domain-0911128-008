@@ -1,0 +1,1937 @@
+{
+  "document": {
+    "version": 1,
+    "facilities": [
+      {
+        "id": "a",
+        "county": "east",
+        "stage": "acute",
+        "name": "Synthetic a"
+      },
+      {
+        "id": "r",
+        "county": "east",
+        "stage": "rehab",
+        "name": "Synthetic r"
+      },
+      {
+        "id": "h",
+        "county": "east",
+        "stage": "home",
+        "name": "Synthetic h"
+      },
+      {
+        "id": "p",
+        "county": "west",
+        "stage": "primary",
+        "name": "Synthetic p"
+      }
+    ],
+    "people": [
+      {
+        "id": "resident-0",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-1",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-2",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-3",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-4",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-5",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-6",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-7",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-8",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-9",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-10",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-11",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-12",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-13",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-14",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-15",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-16",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-17",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-18",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-19",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-20",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-21",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-22",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-23",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-24",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-25",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-26",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-27",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-28",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-29",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-30",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-31",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-32",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-33",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-34",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-35",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-36",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-37",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-38",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-39",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-40",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-41",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-42",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-43",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-44",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-45",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-46",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-47",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-48",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-49",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-50",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-51",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-52",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-53",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-54",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-55",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-56",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-57",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-58",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-59",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-60",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-61",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-62",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-63",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-64",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-65",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-66",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-67",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-68",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-69",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-70",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-71",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-72",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-73",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-74",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-75",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-76",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-77",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-78",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-79",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-80",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-81",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-82",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-83",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-84",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-85",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-86",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-87",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-88",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-89",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-90",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-91",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-92",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-93",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      },
+      {
+        "id": "resident-94",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-95",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-96",
+        "county": "east",
+        "age_band": "adult",
+        "rural": false
+      },
+      {
+        "id": "resident-97",
+        "county": "west",
+        "age_band": "older",
+        "rural": true
+      },
+      {
+        "id": "resident-98",
+        "county": "east",
+        "age_band": "older",
+        "rural": false
+      },
+      {
+        "id": "resident-99",
+        "county": "west",
+        "age_band": "adult",
+        "rural": true
+      }
+    ],
+    "visits": [
+      {
+        "id": "index-0",
+        "person": "resident-0",
+        "facility": "a",
+        "admitted": "2025-01-01",
+        "discharged": "2025-01-04",
+        "outcome": "completed",
+        "recorded": "2025-01-04"
+      },
+      {
+        "id": "index-1",
+        "person": "resident-1",
+        "facility": "r",
+        "admitted": "2025-01-04",
+        "discharged": "2025-01-08",
+        "outcome": "completed",
+        "recorded": "2025-01-08"
+      },
+      {
+        "id": "return-1",
+        "person": "resident-1",
+        "facility": "p",
+        "admitted": "2025-01-16",
+        "discharged": "2025-01-18",
+        "outcome": "completed",
+        "recorded": "2025-01-18"
+      },
+      {
+        "id": "index-2",
+        "person": "resident-2",
+        "facility": "h",
+        "admitted": "2025-01-07",
+        "discharged": "2025-01-12",
+        "outcome": "completed",
+        "recorded": "2025-01-12"
+      },
+      {
+        "id": "index-3",
+        "person": "resident-3",
+        "facility": "p",
+        "admitted": "2025-01-10",
+        "discharged": "2025-01-16",
+        "outcome": "completed",
+        "recorded": "2025-01-16"
+      },
+      {
+        "id": "index-4",
+        "person": "resident-4",
+        "facility": "a",
+        "admitted": "2025-01-13",
+        "discharged": "2025-01-16",
+        "outcome": "completed",
+        "recorded": "2025-01-16"
+      },
+      {
+        "id": "return-4",
+        "person": "resident-4",
+        "facility": "p",
+        "admitted": "2025-01-27",
+        "discharged": "2025-01-29",
+        "outcome": "completed",
+        "recorded": "2025-01-29"
+      },
+      {
+        "id": "index-5",
+        "person": "resident-5",
+        "facility": "r",
+        "admitted": "2025-01-16",
+        "discharged": "2025-01-20",
+        "outcome": "completed",
+        "recorded": "2025-01-20"
+      },
+      {
+        "id": "return-5",
+        "person": "resident-5",
+        "facility": "p",
+        "admitted": "2025-02-01",
+        "discharged": "2025-02-03",
+        "outcome": "completed",
+        "recorded": "2025-02-03"
+      },
+      {
+        "id": "index-6",
+        "person": "resident-6",
+        "facility": "h",
+        "admitted": "2025-01-19",
+        "discharged": "2025-01-24",
+        "outcome": "completed",
+        "recorded": "2025-01-24"
+      },
+      {
+        "id": "index-7",
+        "person": "resident-7",
+        "facility": "p",
+        "admitted": "2025-01-22",
+        "discharged": "2025-01-28",
+        "outcome": "completed",
+        "recorded": "2025-01-28"
+      },
+      {
+        "id": "index-8",
+        "person": "resident-8",
+        "facility": "a",
+        "admitted": "2025-01-25",
+        "discharged": "2025-01-28",
+        "outcome": "completed",
+        "recorded": "2025-01-28"
+      },
+      {
+        "id": "return-8",
+        "person": "resident-8",
+        "facility": "p",
+        "admitted": "2025-02-04",
+        "discharged": "2025-02-06",
+        "outcome": "completed",
+        "recorded": "2025-02-06"
+      },
+      {
+        "id": "index-9",
+        "person": "resident-9",
+        "facility": "r",
+        "admitted": "2025-01-28",
+        "discharged": "2025-02-01",
+        "outcome": "completed",
+        "recorded": "2025-02-01"
+      },
+      {
+        "id": "return-9",
+        "person": "resident-9",
+        "facility": "p",
+        "admitted": "2025-02-09",
+        "discharged": "2025-02-11",
+        "outcome": "completed",
+        "recorded": "2025-02-11"
+      },
+      {
+        "id": "index-10",
+        "person": "resident-10",
+        "facility": "h",
+        "admitted": "2025-01-31",
+        "discharged": "2025-02-05",
+        "outcome": "completed",
+        "recorded": "2025-02-05"
+      },
+      {
+        "id": "index-11",
+        "person": "resident-11",
+        "facility": "p",
+        "admitted": "2025-02-03",
+        "discharged": "2025-02-09",
+        "outcome": "completed",
+        "recorded": "2025-02-09"
+      },
+      {
+        "id": "index-12",
+        "person": "resident-12",
+        "facility": "a",
+        "admitted": "2025-02-06",
+        "discharged": "2025-02-09",
+        "outcome": "completed",
+        "recorded": "2025-02-09"
+      },
+      {
+        "id": "return-12",
+        "person": "resident-12",
+        "facility": "p",
+        "admitted": "2025-02-20",
+        "discharged": "2025-02-22",
+        "outcome": "completed",
+        "recorded": "2025-02-22"
+      },
+      {
+        "id": "index-13",
+        "person": "resident-13",
+        "facility": "r",
+        "admitted": "2025-02-09",
+        "discharged": "2025-02-13",
+        "outcome": "completed",
+        "recorded": "2025-02-13"
+      },
+      {
+        "id": "return-13",
+        "person": "resident-13",
+        "facility": "p",
+        "admitted": "2025-02-25",
+        "discharged": "2025-02-27",
+        "outcome": "completed",
+        "recorded": "2025-02-27"
+      },
+      {
+        "id": "index-14",
+        "person": "resident-14",
+        "facility": "h",
+        "admitted": "2025-02-12",
+        "discharged": "2025-02-17",
+        "outcome": "completed",
+        "recorded": "2025-02-17"
+      },
+      {
+        "id": "index-15",
+        "person": "resident-15",
+        "facility": "p",
+        "admitted": "2025-02-15",
+        "discharged": "2025-02-21",
+        "outcome": "completed",
+        "recorded": "2025-02-21"
+      },
+      {
+        "id": "index-16",
+        "person": "resident-16",
+        "facility": "a",
+        "admitted": "2025-02-18",
+        "discharged": "2025-02-21",
+        "outcome": "completed",
+        "recorded": "2025-02-21"
+      },
+      {
+        "id": "return-16",
+        "person": "resident-16",
+        "facility": "p",
+        "admitted": "2025-02-28",
+        "discharged": "2025-03-02",
+        "outcome": "completed",
+        "recorded": "2025-03-02"
+      },
+      {
+        "id": "index-17",
+        "person": "resident-17",
+        "facility": "r",
+        "admitted": "2025-02-21",
+        "discharged": "2025-02-25",
+        "outcome": "completed",
+        "recorded": "2025-02-25"
+      },
+      {
+        "id": "return-17",
+        "person": "resident-17",
+        "facility": "p",
+        "admitted": "2025-03-05",
+        "discharged": "2025-03-07",
+        "outcome": "completed",
+        "recorded": "2025-03-07"
+      },
+      {
+        "id": "index-18",
+        "person": "resident-18",
+        "facility": "h",
+        "admitted": "2025-02-24",
+        "discharged": "2025-03-01",
+        "outcome": "completed",
+        "recorded": "2025-03-01"
+      },
+      {
+        "id": "index-19",
+        "person": "resident-19",
+        "facility": "p",
+        "admitted": "2025-02-27",
+        "discharged": "2025-03-05",
+        "outcome": "completed",
+        "recorded": "2025-03-05"
+      },
+      {
+        "id": "index-20",
+        "person": "resident-20",
+        "facility": "a",
+        "admitted": "2025-03-02",
+        "discharged": "2025-03-05",
+        "outcome": "completed",
+        "recorded": "2025-03-05"
+      },
+      {
+        "id": "return-20",
+        "person": "resident-20",
+        "facility": "p",
+        "admitted": "2025-03-16",
+        "discharged": "2025-03-18",
+        "outcome": "completed",
+        "recorded": "2025-03-18"
+      },
+      {
+        "id": "index-21",
+        "person": "resident-21",
+        "facility": "r",
+        "admitted": "2025-03-05",
+        "discharged": "2025-03-09",
+        "outcome": "completed",
+        "recorded": "2025-03-09"
+      },
+      {
+        "id": "index-22",
+        "person": "resident-22",
+        "facility": "h",
+        "admitted": "2025-03-08",
+        "discharged": "2025-03-13",
+        "outcome": "completed",
+        "recorded": "2025-03-13"
+      },
+      {
+        "id": "index-23",
+        "person": "resident-23",
+        "facility": "p",
+        "admitted": "2025-03-11",
+        "discharged": "2025-03-17",
+        "outcome": "completed",
+        "recorded": "2025-03-17"
+      },
+      {
+        "id": "index-24",
+        "person": "resident-24",
+        "facility": "a",
+        "admitted": "2025-03-14",
+        "discharged": "2025-03-17",
+        "outcome": "completed",
+        "recorded": "2025-03-17"
+      },
+      {
+        "id": "return-24",
+        "person": "resident-24",
+        "facility": "p",
+        "admitted": "2025-03-24",
+        "discharged": "2025-03-26",
+        "outcome": "completed",
+        "recorded": "2025-03-26"
+      },
+      {
+        "id": "index-25",
+        "person": "resident-25",
+        "facility": "r",
+        "admitted": "2025-03-17",
+        "discharged": "2025-03-21",
+        "outcome": "completed",
+        "recorded": "2025-03-21"
+      },
+      {
+        "id": "return-25",
+        "person": "resident-25",
+        "facility": "p",
+        "admitted": "2025-03-29",
+        "discharged": "2025-03-31",
+        "outcome": "completed",
+        "recorded": "2025-03-31"
+      },
+      {
+        "id": "index-26",
+        "person": "resident-26",
+        "facility": "h",
+        "admitted": "2025-03-20",
+        "discharged": "2025-03-25",
+        "outcome": "completed",
+        "recorded": "2025-03-25"
+      },
+      {
+        "id": "index-27",
+        "person": "resident-27",
+        "facility": "p",
+        "admitted": "2025-03-23",
+        "discharged": "2025-03-29",
+        "outcome": "completed",
+        "recorded": "2025-03-29"
+      },
+      {
+        "id": "index-28",
+        "person": "resident-28",
+        "facility": "a",
+        "admitted": "2025-03-26",
+        "discharged": "2025-03-29",
+        "outcome": "completed",
+        "recorded": "2025-03-29"
+      },
+      {
+        "id": "index-29",
+        "person": "resident-29",
+        "facility": "r",
+        "admitted": "2025-03-29",
+        "discharged": "2025-04-02",
+        "outcome": "completed",
+        "recorded": "2025-04-02"
+      },
+      {
+        "id": "return-29",
+        "person": "resident-29",
+        "facility": "p",
+        "admitted": "2025-04-14",
+        "discharged": "2025-04-16",
+        "outcome": "completed",
+        "recorded": "2025-04-16"
+      },
+      {
+        "id": "index-30",
+        "person": "resident-30",
+        "facility": "h",
+        "admitted": "2025-04-01",
+        "discharged": "2025-04-06",
+        "outcome": "completed",
+        "recorded": "2025-04-06"
+      },
+      {
+        "id": "index-31",
+        "person": "resident-31",
+        "facility": "p",
+        "admitted": "2025-04-04",
+        "discharged": "2025-04-10",
+        "outcome": "completed",
+        "recorded": "2025-04-10"
+      },
+      {
+        "id": "index-32",
+        "person": "resident-32",
+        "facility": "a",
+        "admitted": "2025-04-07",
+        "discharged": "2025-04-10",
+        "outcome": "completed",
+        "recorded": "2025-04-10"
+      },
+      {
+        "id": "return-32",
+        "person": "resident-32",
+        "facility": "p",
+        "admitted": "2025-04-17",
+        "discharged": "2025-04-19",
+        "outcome": "completed",
+        "recorded": "2025-04-19"
+      },
+      {
+        "id": "index-33",
+        "person": "resident-33",
+        "facility": "r",
+        "admitted": "2025-04-10",
+        "discharged": "2025-04-14",
+        "outcome": "completed",
+        "recorded": "2025-04-14"
+      },
+      {
+        "id": "return-33",
+        "person": "resident-33",
+        "facility": "p",
+        "admitted": "2025-04-22",
+        "discharged": "2025-04-24",
+        "outcome": "completed",
+        "recorded": "2025-04-24"
+      },
+      {
+        "id": "index-34",
+        "person": "resident-34",
+        "facility": "h",
+        "admitted": "2025-04-13",
+        "discharged": "2025-04-18",
+        "outcome": "completed",
+        "recorded": "2025-04-18"
+      },
+      {
+        "id": "index-35",
+        "person": "resident-35",
+        "facility": "p",
+        "admitted": "2025-04-16",
+        "discharged": "2025-04-22",
+        "outcome": "completed",
+        "recorded": "2025-04-22"
+      },
+      {
+        "id": "index-36",
+        "person": "resident-36",
+        "facility": "a",
+        "admitted": "2025-04-19",
+        "discharged": "2025-04-22",
+        "outcome": "completed",
+        "recorded": "2025-04-22"
+      },
+      {
+        "id": "return-36",
+        "person": "resident-36",
+        "facility": "p",
+        "admitted": "2025-05-03",
+        "discharged": "2025-05-05",
+        "outcome": "completed",
+        "recorded": "2025-05-05"
+      },
+      {
+        "id": "index-37",
+        "person": "resident-37",
+        "facility": "r",
+        "admitted": "2025-04-22",
+        "discharged": "2025-04-26",
+        "outcome": "completed",
+        "recorded": "2025-04-26"
+      },
+      {
+        "id": "return-37",
+        "person": "resident-37",
+        "facility": "p",
+        "admitted": "2025-05-08",
+        "discharged": "2025-05-10",
+        "outcome": "completed",
+        "recorded": "2025-05-10"
+      },
+      {
+        "id": "index-38",
+        "person": "resident-38",
+        "facility": "h",
+        "admitted": "2025-04-25",
+        "discharged": "2025-04-30",
+        "outcome": "completed",
+        "recorded": "2025-04-30"
+      },
+      {
+        "id": "index-39",
+        "person": "resident-39",
+        "facility": "p",
+        "admitted": "2025-04-28",
+        "discharged": "2025-05-04",
+        "outcome": "completed",
+        "recorded": "2025-05-04"
+      },
+      {
+        "id": "index-40",
+        "person": "resident-40",
+        "facility": "a",
+        "admitted": "2025-05-01",
+        "discharged": "2025-05-04",
+        "outcome": "completed",
+        "recorded": "2025-05-04"
+      },
+      {
+        "id": "return-40",
+        "person": "resident-40",
+        "facility": "p",
+        "admitted": "2025-05-11",
+        "discharged": "2025-05-13",
+        "outcome": "completed",
+        "recorded": "2025-05-13"
+      },
+      {
+        "id": "index-41",
+        "person": "resident-41",
+        "facility": "r",
+        "admitted": "2025-05-04",
+        "discharged": "2025-05-08",
+        "outcome": "completed",
+        "recorded": "2025-05-08"
+      },
+      {
+        "id": "return-41",
+        "person": "resident-41",
+        "facility": "p",
+        "admitted": "2025-05-16",
+        "discharged": "2025-05-18",
+        "outcome": "completed",
+        "recorded": "2025-05-18"
+      },
+      {
+        "id": "index-42",
+        "person": "resident-42",
+        "facility": "h",
+        "admitted": "2025-05-07",
+        "discharged": "2025-05-12",
+        "outcome": "completed",
+        "recorded": "2025-05-12"
+      },
+      {
+        "id": "index-43",
+        "person": "resident-43",
+        "facility": "p",
+        "admitted": "2025-05-10",
+        "discharged": "2025-05-16",
+        "outcome": "completed",
+        "recorded": "2025-05-16"
+      },
+      {
+        "id": "index-44",
+        "person": "resident-44",
+        "facility": "a",
+        "admitted": "2025-05-13",
+        "discharged": "2025-05-16",
+        "outcome": "completed",
+        "recorded": "2025-05-16"
+      },
+      {
+        "id": "return-44",
+        "person": "resident-44",
+        "facility": "p",
+        "admitted": "2025-05-27",
+        "discharged": "2025-05-29",
+        "outcome": "completed",
+        "recorded": "2025-05-29"
+      },
+      {
+        "id": "index-45",
+        "person": "resident-45",
+        "facility": "r",
+        "admitted": "2025-05-16",
+        "discharged": "2025-05-20",
+        "outcome": "completed",
+        "recorded": "2025-05-20"
+      },
+      {
+        "id": "return-45",
+        "person": "resident-45",
+        "facility": "p",
+        "admitted": "2025-06-01",
+        "discharged": "2025-06-03",
+        "outcome": "completed",
+        "recorded": "2025-06-03"
+      },
+      {
+        "id": "index-46",
+        "person": "resident-46",
+        "facility": "h",
+        "admitted": "2025-05-19",
+        "discharged": "2025-05-24",
+        "outcome": "completed",
+        "recorded": "2025-05-24"
+      },
+      {
+        "id": "index-47",
+        "person": "resident-47",
+        "facility": "p",
+        "admitted": "2025-05-22",
+        "discharged": "2025-05-28",
+        "outcome": "completed",
+        "recorded": "2025-05-28"
+      },
+      {
+        "id": "index-48",
+        "person": "resident-48",
+        "facility": "a",
+        "admitted": "2025-05-25",
+        "discharged": "2025-05-28",
+        "outcome": "completed",
+        "recorded": "2025-05-28"
+      },
+      {
+        "id": "return-48",
+        "person": "resident-48",
+        "facility": "p",
+        "admitted": "2025-06-04",
+        "discharged": "2025-06-06",
+        "outcome": "completed",
+        "recorded": "2025-06-06"
+      },
+      {
+        "id": "index-49",
+        "person": "resident-49",
+        "facility": "r",
+        "admitted": "2025-05-28",
+        "discharged": "2025-06-01",
+        "outcome": "completed",
+        "recorded": "2025-06-01"
+      },
+      {
+        "id": "index-50",
+        "person": "resident-50",
+        "facility": "h",
+        "admitted": "2025-05-31",
+        "discharged": "2025-06-05",
+        "outcome": "completed",
+        "recorded": "2025-06-05"
+      },
+      {
+        "id": "index-51",
+        "person": "resident-51",
+        "facility": "p",
+        "admitted": "2025-06-03",
+        "discharged": "2025-06-09",
+        "outcome": "completed",
+        "recorded": "2025-06-09"
+      },
+      {
+        "id": "index-52",
+        "person": "resident-52",
+        "facility": "a",
+        "admitted": "2025-06-06",
+        "discharged": "2025-06-09",
+        "outcome": "completed",
+        "recorded": "2025-06-09"
+      },
+      {
+        "id": "return-52",
+        "person": "resident-52",
+        "facility": "p",
+        "admitted": "2025-06-20",
+        "discharged": "2025-06-22",
+        "outcome": "completed",
+        "recorded": "2025-06-22"
+      },
+      {
+        "id": "index-53",
+        "person": "resident-53",
+        "facility": "r",
+        "admitted": "2025-06-09",
+        "discharged": "2025-06-13",
+        "outcome": "completed",
+        "recorded": "2025-06-13"
+      },
+      {
+        "id": "return-53",
+        "person": "resident-53",
+        "facility": "p",
+        "admitted": "2025-06-25",
+        "discharged": "2025-06-27",
+        "outcome": "completed",
+        "recorded": "2025-06-27"
+      },
+      {
+        "id": "index-54",
+        "person": "resident-54",
+        "facility": "h",
+        "admitted": "2025-06-12",
+        "discharged": "2025-06-17",
+        "outcome": "completed",
+        "recorded": "2025-06-17"
+      },
+      {
+        "id": "index-55",
+        "person": "resident-55",
+        "facility": "p",
+        "admitted": "2025-06-15",
+        "discharged": "2025-06-21",
+        "outcome": "completed",
+        "recorded": "2025-06-21"
+      },
+      {
+        "id": "index-56",
+        "person": "resident-56",
+        "facility": "a",
+        "admitted": "2025-06-18",
+        "discharged": "2025-06-21",
+        "outcome": "completed",
+        "recorded": "2025-06-21"
+      },
+      {
+        "id": "index-57",
+        "person": "resident-57",
+        "facility": "r",
+        "admitted": "2025-06-21",
+        "discharged": "2025-06-25",
+        "outcome": "completed",
+        "recorded": "2025-06-25"
+      },
+      {
+        "id": "return-57",
+        "person": "resident-57",
+        "facility": "p",
+        "admitted": "2025-07-03",
+        "discharged": "2025-07-05",
+        "outcome": "completed",
+        "recorded": "2025-07-05"
+      },
+      {
+        "id": "index-58",
+        "person": "resident-58",
+        "facility": "h",
+        "admitted": "2025-06-24",
+        "discharged": "2025-06-29",
+        "outcome": "completed",
+        "recorded": "2025-06-29"
+      },
+      {
+        "id": "index-59",
+        "person": "resident-59",
+        "facility": "p",
+        "admitted": "2025-06-27",
+        "discharged": "2025-07-03",
+        "outcome": "completed",
+        "recorded": "2025-07-03"
+      },
+      {
+        "id": "index-60",
+        "person": "resident-60",
+        "facility": "a",
+        "admitted": "2025-06-30",
+        "discharged": "2025-07-03",
+        "outcome": "completed",
+        "recorded": "2025-07-03"
+      },
+      {
+        "id": "return-60",
+        "person": "resident-60",
+        "facility": "p",
+        "admitted": "2025-07-14",
+        "discharged": "2025-07-16",
+        "outcome": "completed",
+        "recorded": "2025-07-16"
+      },
+      {
+        "id": "index-61",
+        "person": "resident-61",
+        "facility": "r",
+        "admitted": "2025-07-03",
+        "discharged": "2025-07-07",
+        "outcome": "completed",
+        "recorded": "2025-07-07"
+      },
+      {
+        "id": "return-61",
+        "person": "resident-61",
+        "facility": "p",
+        "admitted": "2025-07-19",
+        "discharged": "2025-07-21",
+        "outcome": "completed",
+        "recorded": "2025-07-21"
+      },
+      {
+        "id": "index-62",
+        "person": "resident-62",
+        "facility": "h",
+        "admitted": "2025-07-06",
+        "discharged": "2025-07-11",
+        "outcome": "completed",
+        "recorded": "2025-07-11"
+      },
+      {
+        "id": "index-63",
+        "person": "resident-63",
+        "facility": "p",
+        "admitted": "2025-07-09",
+        "discharged": "2025-07-15",
+        "outcome": "completed",
+        "recorded": "2025-07-15"
+      },
+      {
+        "id": "index-64",
+        "person": "resident-64",
+        "facility": "a",
+        "admitted": "2025-07-12",
+        "discharged": "2025-07-15",
+        "outcome": "completed",
+        "recorded": "2025-07-15"
+      },
+      {
+        "id": "return-64",
+        "person": "resident-64",
+        "facility": "p",
+        "admitted": "2025-07-22",
+        "discharged": "2025-07-24",
+        "outcome": "completed",
+        "recorded": "2025-07-24"
+      },
+      {
+        "id": "index-65",
+        "person": "resident-65",
+        "facility": "r",
+        "admitted": "2025-07-15",
+        "discharged": "2025-07-19",
+        "outcome": "completed",
+        "recorded": "2025-07-19"
+      },
+      {
+        "id": "return-65",
+        "person": "resident-65",
+        "facility": "p",
+        "admitted": "2025-07-27",
+        "discharged": "2025-07-29",
+        "outcome": "completed",
+        "recorded": "2025-07-29"
+      },
+      {
+        "id": "index-66",
+        "person": "resident-66",
+        "facility": "h",
+        "admitted": "2025-07-18",
+        "discharged": "2025-07-23",
+        "outcome": "completed",
+        "recorded": "2025-07-23"
+      },
+      {
+        "id": "index-67",
+        "person": "resident-67",
+        "facility": "p",
+        "admitted": "2025-07-21",
+        "discharged": "2025-07-27",
+        "outcome": "completed",
+        "recorded": "2025-07-27"
+      },
+      {
+        "id": "index-68",
+        "person": "resident-68",
+        "facility": "a",
+        "admitted": "2025-07-24",
+        "discharged": "2025-07-27",
+        "outcome": "completed",
+        "recorded": "2025-07-27"
+      },
+      {
+        "id": "return-68",
+        "person": "resident-68",
+        "facility": "p",
+        "admitted": "2025-08-07",
+        "discharged": "2025-08-09",
+        "outcome": "completed",
+        "recorded": "2025-08-09"
+      },
+      {
+        "id": "index-69",
+        "person": "resident-69",
+        "facility": "r",
+        "admitted": "2025-07-27",
+        "discharged": "2025-07-31",
+        "outcome": "completed",
+        "recorded": "2025-07-31"
+      },
+      {
+        "id": "return-69",
+        "person": "resident-69",
+        "facility": "p",
+        "admitted": "2025-08-12",
+        "discharged": "2025-08-14",
+        "outcome": "completed",
+        "recorded": "2025-08-14"
+      },
+      {
+        "id": "index-70",
+        "person": "resident-70",
+        "facility": "h",
+        "admitted": "2025-07-30",
+        "discharged": "2025-08-04",
+        "outcome": "completed",
+        "recorded": "2025-08-04"
+      },
+      {
+        "id": "index-71",
+        "person": "resident-71",
+        "facility": "p",
+        "admitted": "2025-08-02",
+        "discharged": "2025-08-08",
+        "outcome": "completed",
+        "recorded": "2025-08-08"
+      },
+      {
+        "id": "index-72",
+        "person": "resident-72",
+        "facility": "a",
+        "admitted": "2025-08-05",
+        "discharged": "2025-08-08",
+        "outcome": "completed",
+        "recorded": "2025-08-08"
+      },
+      {
+        "id": "return-72",
+        "person": "resident-72",
+        "facility": "p",
+        "admitted": "2025-08-15",
+        "discharged": "2025-08-17",
+        "outcome": "completed",
+        "recorded": "2025-08-17"
+      },
+      {
+        "id": "index-73",
+        "person": "resident-73",
+        "facility": "r",
+        "admitted": "2025-08-08",
+        "discharged": "2025-08-12",
+        "outcome": "completed",
+        "recorded": "2025-08-12"
+      },
+      {
+        "id": "return-73",
+        "person": "resident-73",
+        "facility": "p",
+        "admitted": "2025-08-20",
+        "discharged": "2025-08-22",
+        "outcome": "completed",
+        "recorded": "2025-08-22"
+      },
+      {
+        "id": "index-74",
+        "person": "resident-74",
+        "facility": "h",
+        "admitted": "2025-08-11",
+        "discharged": "2025-08-16",
+        "outcome": "completed",
+        "recorded": "2025-08-16"
+      },
+      {
+        "id": "index-75",
+        "person": "resident-75",
+        "facility": "p",
+        "admitted": "2025-08-14",
+        "discharged": "2025-08-20",
+        "outcome": "completed",
+        "recorded": "2025-08-20"
+      },
+      {
+        "id": "index-76",
+        "person": "resident-76",
+        "facility": "a",
+        "admitted": "2025-08-17",
+        "discharged": "2025-08-20",
+        "outcome": "completed",
+        "recorded": "2025-08-20"
+      },
+      {
+        "id": "return-76",
+        "person": "resident-76",
+        "facility": "p",
+        "admitted": "2025-08-31",
+        "discharged": "2025-09-02",
+        "outcome": "completed",
+        "recorded": "2025-09-02"
+      },
+      {
+        "id": "index-77",
+        "person": "resident-77",
+        "facility": "r",
+        "admitted": "2025-08-20",
+        "discharged": "2025-08-24",
+        "outcome": "completed",
+        "recorded": "2025-08-24"
+      },
+      {
+        "id": "index-78",
+        "person": "resident-78",
+        "facility": "h",
+        "admitted": "2025-08-23",
+        "discharged": "2025-08-28",
+        "outcome": "completed",
+        "recorded": "2025-08-28"
+      },
+      {
+        "id": "index-79",
+        "person": "resident-79",
+        "facility": "p",
+        "admitted": "2025-08-26",
+        "discharged": "2025-09-01",
+        "outcome": "completed",
+        "recorded": "2025-09-01"
+      },
+      {
+        "id": "index-80",
+        "person": "resident-80",
+        "facility": "a",
+        "admitted": "2025-08-29",
+        "discharged": "2025-09-01",
+        "outcome": "completed",
+        "recorded": "2025-09-01"
+      },
+      {
+        "id": "return-80",
+        "person": "resident-80",
+        "facility": "p",
+        "admitted": "2025-09-08",
+        "discharged": "2025-09-10",
+        "outcome": "completed",
+        "recorded": "2025-09-10"
+      },
+      {
+        "id": "index-81",
+        "person": "resident-81",
+        "facility": "r",
+        "admitted": "2025-09-01",
+        "discharged": "2025-09-05",
+        "outcome": "completed",
+        "recorded": "2025-09-05"
+      },
+      {
+        "id": "return-81",
+        "person": "resident-81",
+        "facility": "p",
+        "admitted": "2025-09-13",
+        "discharged": "2025-09-15",
+        "outcome": "completed",
+        "recorded": "2025-09-15"
+      },
+      {
+        "id": "index-82",
+        "person": "resident-82",
+        "facility": "h",
+        "admitted": "2025-09-04",
+        "discharged": "2025-09-09",
+        "outcome": "completed",
+        "recorded": "2025-09-09"
+      },
+      {
+        "id": "index-83",
+        "person": "resident-83",
+        "facility": "p",
+        "admitted": "2025-09-07",
+        "discharged": "2025-09-13",
+        "outcome": "completed",
+        "recorded": "2025-09-13"
+      },
+      {
+        "id": "index-84",
+        "person": "resident-84",
+        "facility": "a",
+        "admitted": "2025-09-10",
+        "discharged": "2025-09-13",
+        "outcome": "completed",
+        "recorded": "2025-09-13"
+      },
+      {
+        "id": "index-85",
+        "person": "resident-85",
+        "facility": "r",
+        "admitted": "2025-09-13",
+        "discharged": "2025-09-17",
+        "outcome": "completed",
+        "recorded": "2025-09-17"
+      },
+      {
+        "id": "return-85",
+        "person": "resident-85",
+        "facility": "p",
+        "admitted": "2025-09-29",
+        "discharged": "2025-10-01",
+        "outcome": "completed",
+        "recorded": "2025-10-01"
+      },
+      {
+        "id": "index-86",
+        "person": "resident-86",
+        "facility": "h",
+        "admitted": "2025-09-16",
+        "discharged": "2025-09-21",
+        "outcome": "completed",
+        "recorded": "2025-09-21"
+      },
+      {
+        "id": "index-87",
+        "person": "resident-87",
+        "facility": "p",
+        "admitted": "2025-09-19",
+        "discharged": "2025-09-25",
+        "outcome": "completed",
+        "recorded": "2025-09-25"
+      },
+      {
+        "id": "index-88",
+        "person": "resident-88",
+        "facility": "a",
+        "admitted": "2025-09-22",
+        "discharged": "2025-09-25",
+        "outcome": "completed",
+        "recorded": "2025-09-25"
+      },
+      {
+        "id": "return-88",
+        "person": "resident-88",
+        "facility": "p",
+        "admitted": "2025-10-02",
+        "discharged": "2025-10-04",
+        "outcome": "completed",
+        "recorded": "2025-10-04"
+      },
+      {
+        "id": "index-89",
+        "person": "resident-89",
+        "facility": "r",
+        "admitted": "2025-09-25",
+        "discharged": "2025-09-29",
+        "outcome": "completed",
+        "recorded": "2025-09-29"
+      },
+      {
+        "id": "return-89",
+        "person": "resident-89",
+        "facility": "p",
+        "admitted": "2025-10-07",
+        "discharged": "2025-10-09",
+        "outcome": "completed",
+        "recorded": "2025-10-09"
+      },
+      {
+        "id": "index-90",
+        "person": "resident-90",
+        "facility": "h",
+        "admitted": "2025-09-28",
+        "discharged": "2025-10-03",
+        "outcome": "completed",
+        "recorded": "2025-10-03"
+      },
+      {
+        "id": "index-91",
+        "person": "resident-91",
+        "facility": "p",
+        "admitted": "2025-10-01",
+        "discharged": "2025-10-07",
+        "outcome": "completed",
+        "recorded": "2025-10-07"
+      },
+      {
+        "id": "index-92",
+        "person": "resident-92",
+        "facility": "a",
+        "admitted": "2025-10-04",
+        "discharged": "2025-10-07",
+        "outcome": "completed",
+        "recorded": "2025-10-07"
+      },
+      {
+        "id": "return-92",
+        "person": "resident-92",
+        "facility": "p",
+        "admitted": "2025-10-18",
+        "discharged": "2025-10-20",
+        "outcome": "completed",
+        "recorded": "2025-10-20"
+      },
+      {
+        "id": "index-93",
+        "person": "resident-93",
+        "facility": "r",
+        "admitted": "2025-10-07",
+        "discharged": "2025-10-11",
+        "outcome": "completed",
+        "recorded": "2025-10-11"
+      },
+      {
+        "id": "return-93",
+        "person": "resident-93",
+        "facility": "p",
+        "admitted": "2025-10-23",
+        "discharged": "2025-10-25",
+        "outcome": "completed",
+        "recorded": "2025-10-25"
+      },
+      {
+        "id": "index-94",
+        "person": "resident-94",
+        "facility": "h",
+        "admitted": "2025-10-10",
+        "discharged": "2025-10-15",
+        "outcome": "completed",
+        "recorded": "2025-10-15"
+      },
+      {
+        "id": "index-95",
+        "person": "resident-95",
+        "facility": "p",
+        "admitted": "2025-10-13",
+        "discharged": "2025-10-19",
+        "outcome": "completed",
+        "recorded": "2025-10-19"
+      },
+      {
+        "id": "index-96",
+        "person": "resident-96",
+        "facility": "a",
+        "admitted": "2025-10-16",
+        "discharged": "2025-10-19",
+        "outcome": "completed",
+        "recorded": "2025-10-19"
+      },
+      {
+        "id": "return-96",
+        "person": "resident-96",
+        "facility": "p",
+        "admitted": "2025-10-26",
+        "discharged": "2025-10-28",
+        "outcome": "completed",
+        "recorded": "2025-10-28"
+      },
+      {
+        "id": "index-97",
+        "person": "resident-97",
+        "facility": "r",
+        "admitted": "2025-10-19",
+        "discharged": "2025-10-23",
+        "outcome": "completed",
+        "recorded": "2025-10-23"
+      },
+      {
+        "id": "return-97",
+        "person": "resident-97",
+        "facility": "p",
+        "admitted": "2025-10-31",
+        "discharged": "2025-11-02",
+        "outcome": "completed",
+        "recorded": "2025-11-02"
+      },
+      {
+        "id": "index-98",
+        "person": "resident-98",
+        "facility": "h",
+        "admitted": "2025-10-22",
+        "discharged": "2025-10-27",
+        "outcome": "completed",
+        "recorded": "2025-10-27"
+      },
+      {
+        "id": "index-99",
+        "person": "resident-99",
+        "facility": "p",
+        "admitted": "2025-10-25",
+        "discharged": "2025-10-31",
+        "outcome": "completed",
+        "recorded": "2025-10-31"
+      }
+    ],
+    "referrals": []
+  },
+  "study": {
+    "as_of": "2026-01-01",
+    "known_at": "2026-01-10",
+    "horizon_days": 30,
+    "training_end": "2025-07-01",
+    "validation_end": "2025-10-01",
+    "regularization": [
+      0.01,
+      0.1,
+      1
+    ],
+    "minimum_people": 10,
+    "seed": 41128
+  }
+}
